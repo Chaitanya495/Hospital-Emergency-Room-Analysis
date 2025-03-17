@@ -3,6 +3,8 @@
 
 # Hospital Emergency Room Dashboard
 
+## 🔗 Project Link : https://drive.google.com/drive/folders/17iu7yOsmhCA0V1p0JqvxwVbqEGAItanQ?usp=drive_link
+
 ## 📌 Overview  
 This project is an Excel-based **Hospital Emergency Room Dashboard** that visualizes key emergency room metrics, enabling efficient monitoring and decision-making. It provides insights into patient volume, wait times, gender distribution, admission status, patient referrals, and age group analysis.
 
